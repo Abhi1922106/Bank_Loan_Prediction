@@ -27,8 +27,8 @@ bank?
 15. CreditCard- Does the customer uses a credit card issued by Bank?
 
 TASK:-
-Tools :- Python.
-         Python libraries: NumPy, Pandas, Matplotlib, Scikit learn , Seaborn 
+Tools Used :- Python.
+              Python libraries: NumPy, Pandas, Matplotlib, Scikit learn , Seaborn 
 
 1. Build a model that will help to identify the potential customers who have a higher
    probability of purchasing the loan.
