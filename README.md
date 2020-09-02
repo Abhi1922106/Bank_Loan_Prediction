@@ -26,7 +26,7 @@ bank?
 14. Online- Does the customer use internet banking facilities?
 15. CreditCard- Does the customer uses a credit card issued by Bank?
 
-Language Used:- Python, Python libraries: NumPy, Pandas, Matplotlib, Scikit learn , Seaborn 
+Language Used:- Python, Python libraries: NumPy, Pandas, Matplotlib, Scikit learn , Seaborn                                                                                        Task:-
 Task to perform:-
 1. Build a model that will help to identify the potential customers who have a higher
    probability of purchasing the loan.
